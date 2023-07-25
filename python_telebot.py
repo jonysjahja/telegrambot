@@ -1,8 +1,8 @@
 import telebot
 
-token = "TU-TOKEN-DE-BOTFATHER"
+token = 6568993180:AAHIE06MdLYt3xmvOrRF4FyNTU-QoA_DrEI
 
-bot = telebot.TeleBot(token)
+bot = telebot.TeleBot(6568993180:AAHIE06MdLYt3xmvOrRF4FyNTU-QoA_DrEI)
 
 def handle_messages(messages):
 	for message in messages:
